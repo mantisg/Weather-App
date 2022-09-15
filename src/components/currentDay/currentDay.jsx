@@ -1,7 +1,7 @@
 import React from 'react';
 
 import locationIcon from './assets/location-pin.png';
-import styles from './CurrentDay.module.css';
+import styles from './currentDay.module.css';
 
 const CurrentDay = () => (
     <div className="d-flex">

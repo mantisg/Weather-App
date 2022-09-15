@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Row, Col } from 'react-bootstrap';
 
-import styles from './forecast.css';
+import styles from './forecast.module.css';
 
 const Forecast = () => (
     <Container className={styles.box}>

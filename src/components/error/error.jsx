@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from './error.css';
+import styles from './error.module.css';
 
 const Error = ({ message }) => (
     <div className={`${styles.error} alert position-absolute`} role="alert">
